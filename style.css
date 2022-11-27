@@ -1,0 +1,10 @@
+
+.cabecalho{
+    background-color: rgb(109, 44, 167);
+        text-transform: uppercase;
+}
+
+a.item:visited{
+    display: inline-block;
+        color: whitesmoke;
+}
